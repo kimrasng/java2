@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JAVA_IO/JAVA_IO.iml" filepath="$PROJECT_DIR$/JAVA_IO/JAVA_IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaWorkspace.iml" filepath="$PROJECT_DIR$/.idea/javaWorkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Thread/java_Lambda/java_Lambda.iml" filepath="$PROJECT_DIR$/java_Thread/java_Lambda/java_Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Thread/java_Thread.iml" filepath="$PROJECT_DIR$/java_Thread/java_Thread.iml" />
     </modules>
   </component>
 </project>
