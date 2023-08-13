@@ -5,7 +5,6 @@ interface MyInterface {
     public void print();
 
 }
-
 class MyClass implements MyInterface {
     @Override
     public void print() {
@@ -21,7 +20,6 @@ public class EX01 {
         myclass.print();
 
         // 익명클래스
-
         MyInterface myInterface = new MyInterface() {
             @Override
             public void print() {
