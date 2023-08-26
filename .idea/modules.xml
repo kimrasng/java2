@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JAVA_IO/JAVA_IO.iml" filepath="$PROJECT_DIR$/JAVA_IO/JAVA_IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Network/Java_Network.iml" filepath="$PROJECT_DIR$/Java_Network/Java_Network.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaWorkspace.iml" filepath="$PROJECT_DIR$/.idea/javaWorkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_DB/java_DB.iml" filepath="$PROJECT_DIR$/java_DB/java_DB.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_Lambda/java_Lambda.iml" filepath="$PROJECT_DIR$/java_Lambda/java_Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_Thread/java_Thread.iml" filepath="$PROJECT_DIR$/java_Thread/java_Thread.iml" />
     </modules>
