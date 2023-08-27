@@ -17,7 +17,7 @@ public class SungJukMain {
             System.out.println("## 5. 학생성적 삭제 6. 학생성적 종료 ##");
             System.out.println("###################################");
             System.out.println("");
-            System.out.println("선택 : ");
+            System.out.print("선택 : ");
 
             int choice = input.nextInt();
 
@@ -40,6 +40,7 @@ public class SungJukMain {
                     break;
                 case 6:
                     System.out.println("성적 프로그램을 종료합니다.");
+                    System.exit(0);
                     break;
                 default:
                     System.out.println("잘못 입력 하였습니다.");

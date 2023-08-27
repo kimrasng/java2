@@ -2,6 +2,8 @@ package jdbc.sungJuk;
 
 public interface SungJukDAO {
 
+
+
     // DAO : Data Access Object
     // DB의 데이터에 접근하여 데이터를 처리하는 객체
 
